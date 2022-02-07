@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+[4. _**i think this right**_ 💡
+
+I am a *compassionate* leader
+
+**I stay calm under pressure**
